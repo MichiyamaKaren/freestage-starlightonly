@@ -1,0 +1,3 @@
+DB_PATH = 'songs.sqlite'
+SERVER_ROOT_PATH = '/api'
+HEARTBEAT_INTERVAL = 5
