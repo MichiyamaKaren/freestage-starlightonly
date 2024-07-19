@@ -1,0 +1,5 @@
+fastapi==0.111.1
+loguru==0.7.2
+mutagen==1.47.0
+pydantic==2.8.2
+tqdm==4.66.2
